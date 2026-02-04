@@ -32,7 +32,7 @@ export default function Hero() {
                         <span className="text-gray-300 text-xs md:text-sm tracking-wide">VNIT Nagpur</span>
                     </div>
                     <div>
-                        <p>Register for the event</p>
+                        <p></p>
                     </div>
 
                     <div className="cta-container flex flex-col sm:flex-row items-center gap-6 mt-10">
@@ -41,7 +41,7 @@ export default function Hero() {
                             className="group relative h-14 w-48 overflow-hidden rounded-full bg-[#E62B1E] shadow-lg shadow-red-600/30 transition-all duration-300 hover:w-56 hover:shadow-red-600/50"
                         >
                             <div className="absolute inset-0 flex items-center justify-center font-bold uppercase tracking-widest text-white transition-opacity duration-300 group-hover:opacity-0">
-                                Register
+                                Ready Up!!
                             </div>
                             <div className="absolute inset-0 flex items-center justify-center gap-2 opacity-0 transition-opacity duration-300 group-hover:opacity-100">
                                 <span className="font-bold uppercase tracking-widest text-white">Let's Go</span>
