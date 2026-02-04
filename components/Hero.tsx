@@ -27,7 +27,7 @@ export default function Hero() {
                     </p>
 
                     <div className="flex items-center gap-6 mb-8 border border-white/10 bg-white/5 py-3 px-8 rounded-full backpack-blur-sm hover:border-red-500/50 transition-colors duration-300">
-                        <span className="text-white font-bold tracking-widest uppercase text-xs md:text-sm">February 7, 2025</span>
+                        <span className="text-white font-bold tracking-widest uppercase text-xs md:text-sm">February 14, 2026</span>
                         <span className="w-1.5 h-1.5 rounded-full bg-[#E62B1E]"></span>
                         <span className="text-gray-300 text-xs md:text-sm tracking-wide">VNIT Nagpur</span>
                     </div>
