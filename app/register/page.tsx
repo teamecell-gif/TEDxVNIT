@@ -47,12 +47,21 @@ export default function RegisterPage() {
         return () => ctx.revert();
     }, []);
 
+    const showRegistrationForm = false; // Set to true to show the registration form
+
     return (
         <main ref={container}>
             <div id="app">
                 <Navbar />
                 <div style={{ paddingTop: '100px', minHeight: '80vh', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-                    <RegistrationForm />
+                    {showRegistrationForm ? (
+                        <RegistrationForm />
+                    ) : (
+                        <div style={{ textAlign: 'center' }}>
+                            <h2 style={{ fontSize: '2rem', marginBottom: '1rem' }}>Registration Coming Soon</h2>
+                            <p style={{ color: '#888' }}>Stay tuned for updates!</p>
+                        </div>
+                    )}
                 </div>
                 <Footer />
             </div>
