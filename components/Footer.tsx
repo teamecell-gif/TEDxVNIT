@@ -15,10 +15,10 @@ export default function Footer() {
                             <span>VNIT</span>
                         </h2>
                         <p className="text-gray-500 text-sm leading-relaxed max-w-xs">
-                            Unraveling Dimensions. An independently organized TED event at Visvesvaraya National Institute of Technology, Nagpur.
+                            Echoes Unheard. An independently organized TED event at Visvesvaraya National Institute of Technology, Nagpur.
                         </p>
                         <p className="text-white font-bold tracking-widest uppercase text-xs mt-4">
-                            February 7, 2025
+                            February 13, 2026
                         </p>
                     </div>
 

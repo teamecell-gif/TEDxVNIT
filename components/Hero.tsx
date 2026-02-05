@@ -16,9 +16,9 @@ export default function Hero() {
                     <div className="mb-8 relative">
                         <span className="text-[#E62B1E] font-bold tracking-widest text-sm md:text-base uppercase mb-4 block animate-fade-in-up">Theme 2026</span>
                         <h1 className="text-5xl md:text-8xl lg:text-9xl font-black text-white tracking-tighter leading-none mb-2">
-                            UNRAVELING
+                            ECHOES
                             <br />
-                            <span className="text-transparent bg-clip-text bg-gradient-to-r from-white via-white to-gray-500">DIMENSIONS</span>
+                            <span className="text-transparent bg-clip-text bg-gradient-to-r from-white via-white to-gray-500">UNHEARD</span>
                         </h1>
                     </div>
 
@@ -27,7 +27,7 @@ export default function Hero() {
                     </p>
 
                     <div className="flex items-center gap-6 mb-8 border border-white/10 bg-white/5 py-3 px-8 rounded-full backpack-blur-sm hover:border-red-500/50 transition-colors duration-300">
-                        <span className="text-white font-bold tracking-widest uppercase text-xs md:text-sm">February 14, 2026</span>
+                        <span className="text-white font-bold tracking-widest uppercase text-xs md:text-sm">February 13, 2026</span>
                         <span className="w-1.5 h-1.5 rounded-full bg-[#E62B1E]"></span>
                         <span className="text-gray-300 text-xs md:text-sm tracking-wide">VNIT Nagpur</span>
                     </div>
@@ -37,7 +37,7 @@ export default function Hero() {
 
                     <div className="cta-container flex flex-col sm:flex-row items-center gap-6 mt-10">
                         <Link
-                            href="/register"
+                            href="#about"
                             className="group relative h-14 w-48 overflow-hidden rounded-full bg-[#E62B1E] shadow-lg shadow-red-600/30 transition-all duration-300 hover:w-56 hover:shadow-red-600/50"
                         >
                             <div className="absolute inset-0 flex items-center justify-center font-bold uppercase tracking-widest text-white transition-opacity duration-300 group-hover:opacity-0">
