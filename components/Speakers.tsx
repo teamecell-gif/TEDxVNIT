@@ -9,11 +9,6 @@ interface Speaker {
 
 const speakers: Speaker[] = [
     {
-        name: "Mangesh Deshpande",
-        title: "Speaker",
-        image: "",
-    },
-    {
         name: "Manya Singh",
         title: "Speaker",
         image: "/manya.avif",
@@ -26,7 +21,7 @@ const speakers: Speaker[] = [
     {
         name: "Akshay Dongarwar",
         title: "Speaker",
-        image: "",
+        image: "/akshay.jpeg",
     },
     {
         name: "Vijayashree Parmeshwar",
