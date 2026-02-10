@@ -16,7 +16,7 @@ export default function Hero() {
                     <div className="mb-8 relative">
                         <span className="text-[#E62B1E] font-bold tracking-widest text-sm md:text-base uppercase mb-4 block animate-fade-in-up">Theme 2026</span>
                         <h1 className="text-5xl md:text-8xl lg:text-9xl font-black text-white tracking-tighter leading-none mb-2">
-                            ECHOES
+                            ECHOES OF
                             <br />
                             <span className="text-transparent bg-clip-text bg-gradient-to-r from-white via-white to-gray-500">UNHEARD</span>
                         </h1>
