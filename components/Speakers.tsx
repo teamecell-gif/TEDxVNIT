@@ -10,22 +10,22 @@ interface Speaker {
 const speakers: Speaker[] = [
     {
         name: "Manya Singh",
-        title: "Speaker",
+        title: "Femina Miss India",
         image: "/manya.avif",
     },
     {
         name: "Ashish Bharatvanshi",
-        title: "Speaker",
+        title: "Educator & Public Speaker",
         image: "/ashish.png",
     },
     {
         name: "Akshay Dongarwar",
-        title: "Speaker",
+        title: "Vice President, JP Morgan",
         image: "/akshay.jpeg",
     },
     {
         name: "Vijayashree Parmeshwar",
-        title: "Speaker",
+        title: "Founder, Decor",
         image: "/vijayasree.jpeg",
     }
 ];
